@@ -1,4 +1,4 @@
-# Artigo SBRC 2025 - Dataset e guia de reprodução - MENTORED TESTBED
+# Dataset IoT HTTP/2 Rapid Reset - Dataset e guia de reprodução - MENTORED TESTBED
 
 > [!IMPORTANT]
 > A seguir são descritos os passos necessários para reproduzir e analisar os experimentos realizados no MENTORED Testbed a partir dos arquivos de definição de experimento. [Para baixar o dataset gerado utilize este link](https://drive.google.com/drive/folders/1N1-0S1FixL5t0iuXHI8HgYrQtpkSjhXW?usp=sharing)
